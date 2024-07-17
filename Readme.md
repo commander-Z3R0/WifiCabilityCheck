@@ -15,12 +15,16 @@
 
 #### How to Use
 
-1. **Download the Script**: Save the script as `wcc.sh`.
+1. **Download the Script**:
    ```bash
-   git clone https://github.com/commander-z3r0/wcc.git
+   git clone https://github.com/commander-z3r0/WifiCabilityCheck.git
    ```
-   
-2. **Make the Script Executable**: 
+
+2. **Change directory**: 
+   ```bash
+   cd  WifiCabilityCheck/ 
+   ```
+3. **Make the Script Executable**: 
    ```bash
    chmod +x wcc.sh
    ```
