@@ -30,7 +30,7 @@ logo="$b
       <KKKKKKKKkr,                       ,rSKKKKKKKK<
        -\"v]qj;-                             -;jq]v\"-
       $w >>-------> [WifiCapabilityChecker]$w
-      $d >>------->       by $w$r@C.Z3R0$w"
+      $d >>------->   by $w$r@Commander.Z3R0$w"
 
 echo -e "$logo"
 
